@@ -128,6 +128,8 @@ let madeMenu = `
  🛠️ *𝐓𝐨𝐨𝐥𝐬 𝐌𝐞𝐧𝐮*
   ───────
  ${menu.tools}
+
+ `CHANNEL LINK https://whatsapp.com/channel/0029Vb04zWSBFLgVwEvUMB1O
 ╰───────────●●►
 
 #MY CHANNEL LINK
